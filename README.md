@@ -22,7 +22,6 @@
 - 🐘 Backend development with **Laravel & PHP**
 - 🔧 Also experienced in **WordPress** (themes, plugins, custom builds)
 - 🎯 Currently open to **full-time opportunities** as a Full Stack Developer
-- 📫 Reach me at **kurahattilingaraj@gmail.com**
 
 ---
 
