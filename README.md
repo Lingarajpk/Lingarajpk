@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Lingaraj Kurahatti</h1>
-<h3 align="center">Full Stack Developer | WordPress • Laravel • PHP • React.js • Next.js</h3>
+<h3 align="center">Full Stack Developer | React.js • Next.js • Laravel • PHP</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lpkurahatti/" target="_blank">
@@ -19,9 +18,9 @@
 ### 🚀 About Me
 
 - 💻 Full Stack Developer based in **Karnataka, India**
-- 🔧 Strong hands-on experience building **WordPress** websites — themes, plugins, custom builds
-- ⚛️ Also building modern web apps with **Next.js / React.js**
-- 🐘 Backend experience with **Laravel & PHP**
+- ⚛️ Building modern, fast web apps with **React.js & Next.js**
+- 🐘 Backend development with **Laravel & PHP**
+- 🔧 Also experienced in **WordPress** (themes, plugins, custom builds)
 - 🎯 Currently open to **full-time opportunities** as a Full Stack Developer
 - 📫 Reach me at **kurahattilingaraj@gmail.com**
 
@@ -29,29 +28,33 @@
 
 ### 🛠️ Tech Stack
 
-**Frontend**
+**⭐ Core Skills**
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+**Other Frontend**
+<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-**Backend**
+**Database & Tools**
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-**CMS & Tools**
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
+
+**Also experienced with**
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 </p>
 
 ---
