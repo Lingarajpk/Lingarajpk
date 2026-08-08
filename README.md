@@ -51,8 +51,8 @@ const lingaraj = {
 - ⚛️ Building modern, fast web apps with **React.js & Next.js**
 - 🐘 Backend development with **Laravel & PHP**
 - 🔧 Also experienced in **WordPress** (themes, plugins, custom builds)
-- 🎯 Currently open to **full-time opportunities**
-- 📫 Reach me at **kurahattilingaraj@gmail.com**
+<!-- - 🎯 Currently open to **full-time opportunities**
+- 📫 Reach me at **kurahattilingaraj@gmail.com** ===== -->
 
 <br clear="right"/>
 
