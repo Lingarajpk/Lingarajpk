@@ -43,7 +43,7 @@ const lingaraj = {
   backend: ["Laravel", "PHP", "MySQL"],
   alsoKnows: ["WordPress", "Bootstrap", "Git"],
   currentFocus: "Modern, fast, scalable web apps",
-  openTo: "Full-time opportunities ✅"
+<!-- =====  openTo: "Full-time opportunities ✅" ===== -->
 };
 ```
 
